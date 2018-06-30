@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    // XXX: comment this line to make tests work:
+    "emitDeclarationOnly": true,
+  }
+}
